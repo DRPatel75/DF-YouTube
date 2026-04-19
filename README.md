@@ -1,95 +1,79 @@
 # 🎯 DF-YouTube (Distraction-Free YouTube)
 
-A simple project designed to make YouTube distraction-free by removing unnecessary elements like recommendations, comments, and sidebars — helping users stay focused on content.
+A simple HTML-based project that makes YouTube distraction-free by hiding unnecessary elements like recommendations and side content — helping users stay focused on what matters.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Remove recommended videos
-- ✅ Hide sidebar distractions
-- ✅ Clean and minimal UI
-- ✅ Focus only on video content
-- ✅ Lightweight and fast
+* ✅ Clean and minimal interface
+* ✅ Removes distracting elements
+* ✅ Focus on video content only
+* ✅ Lightweight (pure HTML)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Used
 
-- HTML
-- CSS
-- JavaScript
+* HTML
 
 ---
 
 ## 📂 Project Structure
 
-
+```
 DF-YouTube/
 │── index.html
-│── style.css
-│── script.js
 │── assets/
-
+```
 
 ---
 
-## ⚙️ Installation & Usage
+## ⚙️ How to Use
 
-### 1. Clone the repository
-```bash
+1. Download or clone the repository:
+
+```
 git clone https://github.com/DRPatel75/DF-YouTube.git
-2. Open project
-Open index.html in your browser
-3. (Optional - Extension Mode)
-Enable Developer Mode in Chrome
-Load the project folder as an extension
-🎯 Purpose
+```
 
-This project helps users:
+2. Open the project:
 
-Improve productivity
-Avoid distractions while studying
-Focus on learning content
-📸 Screenshots
-
-Add your project screenshots here
-
-📌 Future Improvements
-🔹 Toggle options (enable/disable features)
-🔹 Chrome Extension UI
-🔹 Dark mode
-🔹 Custom filters
-🤝 Contributing
-
-Contributions are welcome!
-
-Fork the repo
-Create a new branch
-Make changes
-Submit a Pull Request
-📜 License
-
-This project is open-source and available under the MIT License.
-
-👨‍💻 Author
-
-Divy Patel
-
-GitHub: https://github.com/DRPatel75
-⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
-
+* Open `index.html` in your browser
 
 ---
 
-## 🔥 Want better version?
-If you want, I can:
-- Add **badges (stars, forks, tech stack icons)**
-- Customize based on your **actual code files**
-- Add **Chrome extension setup properly**
-- Make it **resume/project ready (for placement)**
+## 🎯 Purpose
 
-Just tell me 👍
-::contentReference[oaicite:1]{index=1}
+This project is created to:
+
+* Improve focus while watching videos
+* Reduce distractions
+* Help students stay productive
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots of your project here
+
+---
+
+## 📌 Future Improvements
+
+* 🔹 Add toggle options
+* 🔹 Improve UI design
+* 🔹 Add more customization
+
+---
+
+## 👨‍💻 Author
+
+**Divy Patel**
+GitHub: https://github.com/DRPatel75
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
