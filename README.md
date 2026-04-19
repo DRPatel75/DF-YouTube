@@ -24,7 +24,9 @@ A simple HTML-based project that makes YouTube distraction-free by hiding unnece
 ```
 DF-YouTube/
 │── index.html
-│── assets/
+│── music.html
+│── coding.html
+│── gaming.html
 ```
 
 ---
@@ -53,9 +55,6 @@ This project is created to:
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your project here
 
 ---
 
